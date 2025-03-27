@@ -1,3 +1,3 @@
 # RoboCar
 Design of Localization and Navigation Control for Micro Autonomous Vehicles
-https://studio.youtube.com/video/rq7mdhvWE74/edit
+https://www.youtube.com/watch?v=rq7mdhvWE74
